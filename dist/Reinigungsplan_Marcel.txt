@@ -1,0 +1,8 @@
+[0] - Kaffeemaschine
+[1] - Spülmaschine
+[0] - Vitrine
+[0] - Fronten
+[1] - Oberflächen
+[1] - Bagelecke
+[0] - Bagelofen
+[0] - Flavour-Flaschen
